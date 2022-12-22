@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know-845x321.png)]
+(https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know-845x321.png)
 <h1 align="center">Hi 👋, I'm Prince Kumar Sahni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e9bf1b9a95c297f5a5845f6cf223d5f997b961b8&rid=giphy.gif&ct=g" width="400" align="right" alt="This is the image of the mern stack technology." />
