@@ -1,20 +1,18 @@
 <img src="https://camo.githubusercontent.com/52daa31bf00e47208927ddf9cfa01d432b96f49df09705e8d5ebbf0225a602ff/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6669742f742f313630302f3438302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" alt="this is the banner image" />
 <h1 align="center">Hi 👋, I'm Prince Kumar Sahni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e9bf1b9a95c297f5a5845f6cf223d5f997b961b8&rid=giphy.gif&ct=g" width="400" align="right" alt="This is the image of the mern stack technology." />
-
-
+<h3 align="center">A passionate Full-Stack developer from India</h3>
+<img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47s7fnhkcsjzmrrdecma643nqfli82a18epheyr42h&rid=giphy.gif&ct=g" width="400" align="right" alt="This is the image of the mern stack technology." />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrprince123&label=Profile%20views&color=0e75b6&style=flat" alt="mrprince123" /> </p>
 
-- 📝 I regularly write articles on [https://blog-website.up.railway.app/](https://blog-website.up.railway.app/)
+- 📝 I regularly write articles on **[Blog Website](https://blog-website.up.railway.app/)**
 
 - 💬 Ask me about **Android(Java,XML), MERN Stack**
 
 - 📫 How to reach me **princekrdss2018@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-1t04YIuTrL1rxRnYjTCx6fiCbBHcbF0/view?usp=share_link](https://drive.google.com/file/d/1-1t04YIuTrL1rxRnYjTCx6fiCbBHcbF0/view?usp=share_link)
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1-1t04YIuTrL1rxRnYjTCx6fiCbBHcbF0/view?usp=share_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
