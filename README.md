@@ -1,24 +1,49 @@
-<img src="https://camo.githubusercontent.com/52daa31bf00e47208927ddf9cfa01d432b96f49df09705e8d5ebbf0225a602ff/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6669742f742f313630302f3438302f312a4f463078454d6b5742762d36397a766d4e73365244512e676966" alt="this is the banner image" />
-<h1 align="center">Hi 👋, I'm Prince Kumar Sahni</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47s7fnhkcsjzmrrdecma643nqfli82a18epheyr42h&rid=giphy.gif&ct=g" width="400" align="right" alt="This is the image of the mern stack technology." />
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prince</h1>
+<h3 align="center">I'm a passionate Front End Web-Application Developer from India.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrprince123&label=Profile%20views&color=0e75b6&style=flat" alt="mrprince123" /> </p>
+## 🙋‍♂️ About Me
 
-- 📝 I regularly write articles on **[Blog Website](https://blog-website.up.railway.app/)**
+- 🔭 I’m currently working on **[My own Project]()**
 
-- 💬 Ask me about **Android(Java,XML), MERN Stack**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📫 How to reach me **princekrdss2018@gmail.com**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1-1t04YIuTrL1rxRnYjTCx6fiCbBHcbF0/view?usp=share_link)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mrprince123.github.io/mrprince.github.io/)**
 
+- 📫 How to reach me **princekrdss2018@gamil.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- ⚡ Fun fact **I play games a lot and I often shotdown my Pc.**
 
+## 🚀 Languages and Tools:
 
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/48/000000/ionic.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>    
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/mrprince123/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrprince123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## 📊 My Github Stats
 
@@ -32,7 +57,10 @@
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrprince123&" alt="mrprince123" /></p>
+<a href="https://github.com/mrprince123/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrprince123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 ## Connect with me:
 <p align="left">
@@ -43,3 +71,9 @@
 <a href = "https://www.youtube.com/channel/UC2oGag_VV-qgBZpiSNbjVww"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mrprince123">
+</a>
+<a href="https://github.com/mrprince123?tab=followers"><img src="https://img.shields.io/github/followers/mrprince123?label=Followers&style=social" alt="GitHub Badge"></a>
